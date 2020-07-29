@@ -1,19 +1,5 @@
-# shortly
+# Shortly (in progress)
 
-## Project setup
-```
-npm install
-```
+Built using Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](src/assets/desktop-preview.jpg)
